@@ -22,7 +22,7 @@
     application.setAttribute("hitCounter", hitsCount);
 %>
 
-<p>页面访问量为: <%= hitsCount%></p>
+<p>页面访问量为(v1.0): <%= hitsCount%></p>
 
 
 </body>
